@@ -11,7 +11,8 @@ setup(
         packages=find_packages(),
         install_requires=[
             'requests',
-            'requests_toolbelt'
+            'requests_toolbelt',
+            'tqdm'
         ],
         keywords=['python', 'otterai', 'api']
 )

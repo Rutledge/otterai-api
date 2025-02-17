@@ -1,0 +1,10 @@
+/downloads
+/downloads_1
+*.pyc
+/otterai.egg-info
+/build
+.env
+download_progress.json
+speeches_20250216_222800.json
+speeches_debug.json
+speeches_list.json
